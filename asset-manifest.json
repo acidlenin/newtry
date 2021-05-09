@@ -1,31 +1,31 @@
 {
   "files": {
     "main.css": "/newtry/static/css/main.b588a5e4.chunk.css",
-    "main.js": "/newtry/static/js/main.8c50493c.chunk.js",
-    "main.js.map": "/newtry/static/js/main.8c50493c.chunk.js.map",
-    "runtime-main.js": "/newtry/static/js/runtime-main.0efea098.js",
-    "runtime-main.js.map": "/newtry/static/js/runtime-main.0efea098.js.map",
-    "static/js/2.45003efe.chunk.js": "/newtry/static/js/2.45003efe.chunk.js",
-    "static/js/2.45003efe.chunk.js.map": "/newtry/static/js/2.45003efe.chunk.js.map",
+    "main.js": "/newtry/static/js/main.5095d51e.chunk.js",
+    "main.js.map": "/newtry/static/js/main.5095d51e.chunk.js.map",
+    "runtime-main.js": "/newtry/static/js/runtime-main.7c7dd2f8.js",
+    "runtime-main.js.map": "/newtry/static/js/runtime-main.7c7dd2f8.js.map",
+    "static/js/2.72e16514.chunk.js": "/newtry/static/js/2.72e16514.chunk.js",
+    "static/js/2.72e16514.chunk.js.map": "/newtry/static/js/2.72e16514.chunk.js.map",
     "static/css/3.3a0091ec.chunk.css": "/newtry/static/css/3.3a0091ec.chunk.css",
     "static/js/3.6352cca6.chunk.js": "/newtry/static/js/3.6352cca6.chunk.js",
     "static/js/3.6352cca6.chunk.js.map": "/newtry/static/js/3.6352cca6.chunk.js.map",
     "static/css/4.10e04a2b.chunk.css": "/newtry/static/css/4.10e04a2b.chunk.css",
-    "static/js/4.597944ea.chunk.js": "/newtry/static/js/4.597944ea.chunk.js",
-    "static/js/4.597944ea.chunk.js.map": "/newtry/static/js/4.597944ea.chunk.js.map",
+    "static/js/4.aa2a04bd.chunk.js": "/newtry/static/js/4.aa2a04bd.chunk.js",
+    "static/js/4.aa2a04bd.chunk.js.map": "/newtry/static/js/4.aa2a04bd.chunk.js.map",
     "index.html": "/newtry/index.html",
-    "precache-manifest.ec94b36513728f1acbe64fa58221c94a.js": "/newtry/precache-manifest.ec94b36513728f1acbe64fa58221c94a.js",
+    "precache-manifest.977edb76746cdbc33770dd22aae4a232.js": "/newtry/precache-manifest.977edb76746cdbc33770dd22aae4a232.js",
     "service-worker.js": "/newtry/service-worker.js",
     "static/css/3.3a0091ec.chunk.css.map": "/newtry/static/css/3.3a0091ec.chunk.css.map",
     "static/css/4.10e04a2b.chunk.css.map": "/newtry/static/css/4.10e04a2b.chunk.css.map",
     "static/css/main.b588a5e4.chunk.css.map": "/newtry/static/css/main.b588a5e4.chunk.css.map",
-    "static/js/2.45003efe.chunk.js.LICENSE.txt": "/newtry/static/js/2.45003efe.chunk.js.LICENSE.txt",
+    "static/js/2.72e16514.chunk.js.LICENSE.txt": "/newtry/static/js/2.72e16514.chunk.js.LICENSE.txt",
     "static/media/Youtube_loading_symbol_1_(wobbly).gif": "/newtry/static/media/Youtube_loading_symbol_1_(wobbly).d47e58c7.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.0efea098.js",
-    "static/js/2.45003efe.chunk.js",
+    "static/js/runtime-main.7c7dd2f8.js",
+    "static/js/2.72e16514.chunk.js",
     "static/css/main.b588a5e4.chunk.css",
-    "static/js/main.8c50493c.chunk.js"
+    "static/js/main.5095d51e.chunk.js"
   ]
 }
